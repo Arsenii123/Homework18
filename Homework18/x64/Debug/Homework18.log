@@ -1,4 +1,6 @@
 ﻿  Homework18.cpp
-C:\Users\PC\OneDrive\Desktop\C++\Homework18\Homework18.cpp(248,20): warning C4305: 'argument': truncation from 'int' to 'bool'
-C:\Users\PC\OneDrive\Desktop\C++\Homework18\Homework18.cpp(282,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Homework18.cpp(18,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Homework18.cpp(35,20): warning C4305: 'argument': truncation from 'int' to 'bool'
+  Mark.cpp
+  Generating Code...
   Homework18.vcxproj -> C:\Users\PC\OneDrive\Desktop\C++\Homework18\x64\Debug\Homework18.exe
