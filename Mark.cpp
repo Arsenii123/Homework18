@@ -1,11 +1,11 @@
 #include "Mark.h"
 
-void Marks::SetMark(double new_mark) {
-        if (new_mark < 1) {
+void Marks::SetMark(double mark) {
+        if (mark < 1) {
             cout << "ERROR\n";
         }
         else {
-            mark = new_mark;
+           this-> mark = mark;
         }
     }
 double Marks:: GetMark() {

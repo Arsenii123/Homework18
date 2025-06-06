@@ -1,32 +1,32 @@
 #include "Weathers.h"
-void Weather::SetType(string new_type) {
-    if (new_type == "!") {
+void Weather::SetType(string type) {
+    if (type == "!") {
         cout << "ERROR\n";
     }
     else {
-        type = new_type;
+        this->type = type;
     }
 }
 string Weather::GetType() {
     return type;
 }
-void Weather::SetSeason(string new_season) {
-    if (new_season == "+") {
+void Weather::SetSeason(string season) {
+    if (season == "+") {
         cout << "ERROR\n";
     }
     else {
-        season = new_season;
+        this->season = season;
     }
 }
 string Weather::GetSeason() {
     return season;
 }
-void Weather::SetBad(bool new_bad) {
-    if (new_bad != true && new_bad != false) {
+void Weather::SetBad(bool bad) {
+    if (bad != true && bad != false) {
         cout << "ERROR\n";
     }
     else {
-        bad = new_bad;
+       this-> bad = bad;
     }
 }
 bool Weather:: GetBad() {

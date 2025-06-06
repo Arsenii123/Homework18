@@ -1,22 +1,22 @@
 #include "Parent.h"
-void Parents::SetNames(string new_mom, string new_dad) {
-    if (new_mom == "." || new_dad == ".") {
+void Parents::SetNames(string mom, string dad) {
+    if (mom == "." || dad == ".") {
         cout << "ERROR\n";
     }
     else {
-        mom = new_mom;
-        dad = new_dad;
+       this-> mom = mom;
+        this->dad = dad;
     }
 }
 string Parents::GetNames() {
     return mom, dad;
 }
-void Parents::SetMood(string new_mood) {
-    if (new_mood == "-") {
+void Parents::SetMood(string mood) {
+    if (mood == "-") {
         cout << "ERROR\n";
     }
     else {
-        mood = new_mood;
+       this-> mood = mood;
     }
 }
 string Parents::GetMood() {

@@ -1,32 +1,32 @@
 #include "Flowers.h"
-void Flower::SetCount(int new_count) {
-    if (new_count < 0) {
+void Flower::SetCount(int count) {
+    if (count < 0) {
         cout << "ERROR\n";
     }
     else {
-        count = new_count;
+        this->count = count;
     }
 }
 int  Flower::GetCount() {
     return count;
 }
-void Flower::SetColor(string new_color) {
-    if (new_color == "*") {
+void Flower::SetColor(string color) {
+    if (color == "*") {
         cout << "ERROR\n";
     }
     else {
-        color = new_color;
+       this-> color = color;
     }
 }
 string  Flower::GetColor() {
     return color;
 }
-void Flower::SetReal(bool new_real) {
+void Flower::SetReal(bool real) {
     if (real != true) {
         cout << "ERROR\n";
     }
     else {
-        real = new_real;
+        this->real = real;
     }
 }
 bool  Flower::GetReal() {
