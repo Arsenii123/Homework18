@@ -1,4 +1,18 @@
 #include "Flowers.h"
+Flower::Flower(bool real = true, int count = 0, string color = "-") {
+ 
+    SetReal(real);
+    SetCount(count);
+    SetColor(color);
+}
+void Flower:: setName(const char* name) {
+        int length = strlen(name) + 1; // +1 for \0
+        this->name = new char[length];
+        strcpy_s(this->name, length, name);
+    }
+string Flower:: getName() const {
+    return name;
+}
 void Flower::SetCount(int count) {
     if (count < 0) {
         cout << "ERROR\n";

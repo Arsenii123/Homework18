@@ -5,10 +5,15 @@ private:
     string mood;
     string mom;
     string dad;
+    char* name;
 public:
-    void SetNames(string new_mom, string new_dad);
+    Parents() :Parents("-", "-", "-"){}
+    Parents(string mood, string mom, string dad);
+    void SetNames(string mom, string dad);
     string GetNames();
-    void SetMood(string new_mood);
+    void SetMood(string mood);
     string GetMood();
+    void setName(const char* name);
+    string getName() const;
 };
 

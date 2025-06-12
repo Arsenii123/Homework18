@@ -5,14 +5,18 @@ private:
     bool real;
     int count;
     string color;
+    char* name;
 public:
-    void SetCount(int new_count);
-    
+    Flower() :Flower(true, 0, "-"){}
+    Flower(bool real, int count, string color);
+    void SetCount(int count);
     int  GetCount();
-    void SetColor(string new_color);
+    void SetColor(string color);
     string  GetColor();
-    void SetReal(bool new_real);
+    void SetReal(bool real);
     bool  GetReal();
+    void setName(const char* name);
+    string getName() const;
 
 };
 

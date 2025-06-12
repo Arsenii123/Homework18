@@ -5,13 +5,18 @@ private:
     string type;
     string season;
     bool bad;
+    char* name;
 public:
-    void SetType(string new_type);
+    Weather():Weather("-","-"){}
+    Weather(string type, string season);
+    void SetType(string type);
     string GetType();
-    void SetSeason(string new_season);
+    void SetSeason(string season);
     string GetSeason();
-    void SetBad(bool new_bad);
+    void SetBad(bool bad);
     bool  GetBad();
+    void setName(const char* name);
+    string getName() const;
 
 };
 

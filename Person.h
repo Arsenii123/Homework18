@@ -5,13 +5,18 @@ private:
     string name;
     bool male;
     int age=0;
+    char* myname;
 public:
-    void SetName(string new_name);
+    Me():Me("Arsenii",true,14){}
+    Me(string name, bool male , int age);
+    void SetName(string name);
     string GetName();
-    void SetMale(bool new_male);
+    void SetMale(bool male);
     bool  GetMale();
-    void SetAge(int new_age);
+    void SetAge(int age);
     int  GetAge();
+    void setName(const char* myname);
+    string getName() const;
 
 };
 

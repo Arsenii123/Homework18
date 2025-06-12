@@ -10,35 +10,34 @@
 using namespace std;
 int main()
 {
-    Flower flower;
-    flower.SetCount(12);
-    cout << flower.GetCount() << "\n";
-    flower.SetColor("blue");
-    cout << flower.GetColor() << "\n";
-    flower.SetReal(3);
+    Flower flower(1,12,"blue");
+    //flower.SetColor("blue");
+    //flower.SetCount(12);
+    //flower.SetReal(3);
     cout << flower.GetReal() << "\n";
-    Weather weather;
-    weather.SetType("-");
+    cout << flower.GetCount() << "\n";
+    cout << flower.GetColor() << "\n";
+    Weather weather("-","Summer");
+   /* weather.SetType("-");*/
     cout << weather.GetType() << "\n";
-    weather.SetSeason("Summer");
+  /*  weather.SetSeason("Summer");*/
     cout << weather.GetSeason() << "\n";
     weather.SetBad(true);
     cout << weather.GetBad() << "\n";
 
-    Parents parents;
-    parents.SetMood("-");
-    parents.SetNames("Jessica", "David");
+    Parents parents("Angry","-","?");
+    //parents.SetMood("-");
+    //parents.SetNames("Jessica", "David");
     cout << parents.GetNames() << "\n";
     cout << parents.GetMood() << "\n";
-    Me person;
-    person.SetAge(1200);
-    person.SetMale(6);
-    person.SetName("Senya");
+    Me person("Arsenii",true,14);
+    //person.SetAge(1200);
+    //person.SetMale(6);
+    //person.SetName("Senya");
     cout << person.GetAge() << "\n";
     cout << person.GetMale() << "\n";
     cout << person.GetName() << "\n";
-    Marks grades;
-    grades.SetMark(1);
+    Marks grades(1.5);
     cout << grades.GetMark() << "\n";
 
 }

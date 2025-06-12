@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Mark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Weathers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Weathers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Parent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Mark.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Flowers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Weathers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Mark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|solutionrelative:Flowers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D98CBB13-9EB8-4024-9965-6360B31EC097}|Homework18.vcxproj|C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Homework18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,89 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mark.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp",
-              "RelativeDocumentMoniker": "Mark.cpp",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp*",
-              "RelativeToolTip": "Mark.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T11:01:04.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Parent.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp",
-              "RelativeDocumentMoniker": "Parent.cpp",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp*",
-              "RelativeToolTip": "Parent.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T11:00:03.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.cpp",
-              "RelativeDocumentMoniker": "Person.cpp",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.cpp*",
-              "RelativeToolTip": "Person.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T10:58:45.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Weathers.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp",
-              "RelativeDocumentMoniker": "Weathers.cpp",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp*",
-              "RelativeToolTip": "Weathers.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T10:57:26.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Flowers.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.cpp",
-              "RelativeDocumentMoniker": "Flowers.cpp",
-              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.cpp",
-              "RelativeToolTip": "Flowers.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T15:51:28.395Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weathers.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.h",
+              "RelativeDocumentMoniker": "Weathers.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.h",
+              "RelativeToolTip": "Weathers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T12:23:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T12:23:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parent.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.h",
+              "RelativeDocumentMoniker": "Parent.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.h",
+              "RelativeToolTip": "Parent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T12:23:18.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mark.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.h",
+              "RelativeDocumentMoniker": "Mark.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.h",
+              "RelativeToolTip": "Mark.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T12:23:12.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flowers.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.h",
+              "RelativeDocumentMoniker": "Flowers.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.h",
+              "RelativeToolTip": "Flowers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T12:07:27.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mark.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp",
+              "RelativeDocumentMoniker": "Mark.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Mark.cpp",
+              "RelativeToolTip": "Mark.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:01:04.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parent.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp",
+              "RelativeDocumentMoniker": "Parent.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Parent.cpp",
+              "RelativeToolTip": "Parent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:00:03.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T10:58:45.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weathers.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp",
+              "RelativeDocumentMoniker": "Weathers.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Weathers.cpp",
+              "RelativeToolTip": "Weathers.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T10:57:26.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Flowers.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.cpp",
+              "RelativeDocumentMoniker": "Flowers.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Flowers.cpp",
+              "RelativeToolTip": "Flowers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T15:51:28.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Homework18.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Homework18.cpp",
               "RelativeDocumentMoniker": "Homework18.cpp",
               "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\C\u002B\u002B\\Homework18\\Homework18.cpp",
               "RelativeToolTip": "Homework18.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-01T09:37:14.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T09:37:14.175Z"
             }
           ]
         }

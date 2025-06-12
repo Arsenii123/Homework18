@@ -1,4 +1,9 @@
 #include "Person.h"
+Me::Me(string name, bool male,int age) {
+    SetName(name);
+    SetMale(male);
+    SetAge(age);
+}
 void Me::SetName(string name) {
     if (name == ")") {
         cout << "ERROR\n";
@@ -31,4 +36,12 @@ void Me::SetAge(int age) {
 }
 int Me:: GetAge() {
     return age;
+}
+void Me::setName(const char* myname) {
+    int length = strlen(myname) + 1; // +1 for \0
+    this->myname = new char[length];
+    strcpy_s(this->myname, length, myname);
+}
+string Me::getName() const {
+    return myname;
 }

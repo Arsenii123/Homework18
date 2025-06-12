@@ -1,6 +1,11 @@
-﻿  Mark.cpp
+﻿  Homework18.cpp
+  Mark.cpp
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Mark.cpp(17,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Parent.cpp
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Parent.cpp(30,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Person.cpp
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Person.cpp(41,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Weathers.cpp
+C:\Users\PC\OneDrive\Desktop\C++\Homework18\Weathers.cpp(40,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating Code...
   Homework18.vcxproj -> C:\Users\PC\OneDrive\Desktop\C++\Homework18\x64\Debug\Homework18.exe
